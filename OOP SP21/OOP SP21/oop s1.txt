@@ -1,0 +1,23 @@
+Basic datatype, operator etc
+Encapsulation vs Data Hiding
+constructor 
+types of constructor.
+static variable 
+static block
+static methods
+Non static block
+Final keyword
+packages
+Association and object passing
+wrapper calss
+polymrphism
+Arrays,Single dimension, Multi dimension Irregular dimension arrays
+Array list
+Public, private acssess modifier.
+
+AOA      
+        Dear respected ma'am I say Sorry for late Submission Of my Documents. 
+B/c I Was Busy in the exam. My name is Nasratullah, Father Name is Mohabbat and DOB Is 2000 .
+ In my passport DOB was 1999 Then i changed that to 2000 B/c My tazkira Equivalency also 2000.
+( I Attached all of my Documents Photos In Pdf file Which is Below).
+Thanks and Regards
