@@ -2,11 +2,11 @@ package Lec_11;
 
 public class Employee {
     // int and String etc is a jdk already defined type
-    int id;
-    String name;
+    private int id;
+    private String name;
 
     // Address is our own define data type  . this is used for less and reusable code
-    Address PostalAddress;
+    private Address PostalAddress;
 
     public  Employee(int id , String name){
         setId(id);// good practice to write like this.
@@ -42,7 +42,7 @@ public class Employee {
     }
 
     public void display(){
-        System.out.println(id);
-        System.out.println(name);
+        System.out.println(getId());
+        System.out.println(getName());
     }
 }
