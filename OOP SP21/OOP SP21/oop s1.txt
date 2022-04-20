@@ -12,7 +12,7 @@ Association and object passing
 wrapper calss
 polymrphism
 Arrays,Single dimension, Multi dimension Irregular dimension arrays
-Array list
+Array_Practice list
 Public, private acssess modifier.
 
 AOA      

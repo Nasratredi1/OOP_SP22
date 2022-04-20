@@ -1,6 +1,6 @@
 package Lecture_19_Abstraction.Lec_19_Abstracttion_2;
 
-public final class CommissionEmployee extends Employee {
+public  class CommissionEmployee extends Employee {
     private double commissionRate;
     private double totalSales;
 
